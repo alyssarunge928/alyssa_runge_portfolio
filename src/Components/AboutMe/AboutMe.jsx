@@ -18,8 +18,7 @@ const AboutMe = () => {
         </div>
         <div>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa sit,
-            odit iste sequi nobis 
+            A storytellers job is to captivate the audience, using their words to get the readers attention, and keep them with the magic of entertainment.
           </p>
         </div>
       </div>
